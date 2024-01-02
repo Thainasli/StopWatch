@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yw+OLcOOQZazrFiY3pK2PArttWOLhYE7S37OwgB27AVvrpfXymIvg4gxPDACtvoZnIaTGfkvb3dbEhQi1Aa+EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thain\\OneDrive\\Documentos\\csharpe\\Projeto3\\StopWatch\\StopWatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thain\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\thain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\thain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\thain\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
